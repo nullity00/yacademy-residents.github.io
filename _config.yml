@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: yAcademy Not yet complete
-description: Completed Reviews will be available soon
+title: yAcademy Reports
+description: Completed Reviews
 # baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 # url: "https://just-the-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
