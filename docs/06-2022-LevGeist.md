@@ -3,7 +3,7 @@ layout: default
 title: 06-2022-LevGeist
 description: LevGeist yAcademy Report
 nav_order: 2
-image: assets/images/logo.png
+image: assets/images/yacademy-logo.png
 ---
 
 yAcademy LevGeist review

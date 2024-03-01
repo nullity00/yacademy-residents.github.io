@@ -3,7 +3,7 @@ layout: default
 title: 12-2022-GET-Protocol-Staking
 description: GET Protocol yAcademy Report
 nav_order: 6
-image: assets/images/logo.png
+image: assets/images/yacademy-logo.png
 ---
 
 yAcademy GET Protocol Staking Review
