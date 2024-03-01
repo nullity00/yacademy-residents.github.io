@@ -3,7 +3,7 @@ layout: default
 title: 01-2023-LlamaLend-V2
 description: LlamaLend V2 yAcademy Report
 nav_order: 8
-image: assets/images/yacademy-logo.png
+image: assets/images/logo.png
 ---
 
 # yAcademy LlamaLend V2 Review

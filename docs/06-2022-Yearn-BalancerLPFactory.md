@@ -3,7 +3,7 @@ layout: default
 title: 06-2022-Yearn-BalancerLPFactory
 description: Yearn BalancerLPFactory Strategy yAcademy Report
 nav_order: 4
-image: assets/images/yacademy-logo.png
+image: assets/images/logo.png
 ---
 
 yAcademy Yearn BalancerLpFactory review

@@ -3,7 +3,7 @@ layout: default
 title: 06-2022-Superfluid
 description: Superfluid yAcademy Report
 nav_order: 3
-image: assets/images/yacademy-logo.png
+image: assets/images/logo.png
 
 yAcademy Superfluid review
 ===
