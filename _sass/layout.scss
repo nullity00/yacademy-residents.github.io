@@ -4,15 +4,13 @@
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
-  background-color: $sidebar-color;
 
   @include mq(md) {
     flex-wrap: nowrap;
     position: fixed;
-    width: $nav-width-md;
+    width: 300px;
     height: 100%;
     flex-direction: column;
-    border-right: $border $border-color;
     align-items: flex-end;
   }
 
@@ -26,7 +24,7 @@
   @include mq(md) {
     position: relative;
     max-width: $content-width;
-    margin-left: $nav-width-md;
+    margin-left: 300px;
   }
 
   @include mq(lg) {
