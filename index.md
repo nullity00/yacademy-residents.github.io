@@ -9,4 +9,4 @@ image: assets/images/logo.png
 
 # yAcademy Reports
 
-The reports on this page are taken from our [repository of completed reviews](https://github.com/yacademy/audits).
+The reports on this page are taken from our_[repository of completed reviews](https://github.com/yacademy/audits).

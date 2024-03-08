@@ -7,7 +7,7 @@
 
 ::selection {
   color: $white;
-  background: $link-color;
+  background: #00fa9a;
 }
 
 html {
@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  font-family: $body-font-family;
+  font-family: Inter, sans-serif;
   font-size: inherit;
   line-height: $body-line-height;
   color: $body-text-color;
@@ -60,7 +60,7 @@ p {
 }
 
 a {
-  color: $link-color;
+  color: #000060;
   text-decoration: none;
 }
 
@@ -81,10 +81,10 @@ a:not([class]) {
 }
 
 code {
-  font-family: $mono-font-family;
+  font-family: Inter, sans-serif;
   font-size: 0.75em;
   line-height: $body-line-height;
-}
+}y
 
 figure,
 pre {

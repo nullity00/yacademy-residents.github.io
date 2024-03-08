@@ -4,7 +4,6 @@ title: 06-2022-Superfluid
 description: Superfluid yAcademy Report
 nav_order: 3
 image: assets/images/logo.png
----
 
 yAcademy Superfluid review
 ===
